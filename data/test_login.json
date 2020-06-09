@@ -1,0 +1,10 @@
+{
+  "test_login_suc": {
+    "username": "15831494001",
+    "password": "123456",
+    "code": "8888",
+    "expect": "我的账户",
+    "is_suc": true
+  }
+}
+
